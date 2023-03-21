@@ -1,7 +1,25 @@
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project is simple Lorem ipsum dolor generator.
+
+
 # Module.1.Challenge by Charlie Tannous
+##### FinTech Case Study on Lemonade Inc.
 ***
-## Fin Tech Case Study on Lemonade Inc.
-### Overview and Origin
+## Table of contents
+* [Overview and Origin](#overview)
+* [Business Activities](#activities)
+* [Landscape](#landscape)
+* [Results](#Results)
+* [Recommendations](#Recommendations)
+* [References](#References)
+
+
+## Overview and Origin
 
 * What is the name of the company? Lemonade
 
@@ -17,8 +35,7 @@
 
 * How is the company funded? How much funding have they received? According to Crunchbase, Lemanonde raised 481.5M in a number of VC rounds leading up to there IPO. At IPO the valuation reached 1.6B with 319M being raised at the time of the IPO. 
 
-
-### Business Activities
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve? Lemonade is an insurance company that aims to provide a customer-centric experience by using AI to cut costs and improve efficiency in the insurance industry. By utilising machine learning and AI to fast track claims and cut costs these cost savings can then be passed back onto to the users. 
 
@@ -33,7 +50,7 @@
     * Cloud Computing: Lemonade uses cloud computing to store and process large amounts of data. This enables the company to scale its operations quickly and efficiently.
     * Mobile Technology: Lemonade offers a mobile app that allows customers to manage their insurance policies and file claims from their smartphones. This technology provides customers with a convenient and easy-to-use interface for interacting with the company.
 
-### Landscape
+## Landscape
 
 * What domain of the financial industry is the company in? Insurance (insur-tech)
 
@@ -72,7 +89,7 @@ Overall, while there are many factors that contribute to the performance of comp
 
  Lemonade’s CEO recently said at investor day which sums up why his compititors would face headwinds trying to play catch up with ML and AI in the insurance industry. Mr. Schreiber elaborated: “If you have a $30 or $40bn business… based on pricing to an average, you don’t want to adopt these new technologies”(AI and ML) because suddenly you’d find that half of your customers has been overcharged and you have to reduce their premiums – that’s no good. And the other half you’ve been undercharging and you’ll need to raise premiums for and lose them – and that’s no good.”
 
-### Recommendations
+## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) Mobility insurance is another potential product that Lemonade could consider offering. With the rise of new mobility technologies, such as electric and autonomous vehicles, there is an increasing demand for insurance products that cater to these emerging technologies.
 Teaming up with Tesla or other automakers to offer car insurance to their customers. This approach would allow Lemonade to tap into a large customer base and offer a differentiated insurance product that is tailored to the specific needs of Tesla owners. Lemonade could leverage its digital platform and AI-powered claims processing system to offer a seamless and user-friendly insurance experience for Tesla customers.
