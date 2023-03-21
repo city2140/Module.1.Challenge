@@ -52,11 +52,15 @@ Taken from Q4 earnings report
 
 The below are the core metrics taken from the latest earnings report
 
-    * In Force Premium IFP, defined as the aggregate annualized premium for customers as of the period end date, increased by 64% to $625.1 million as compared to the fourth quarter of 2021, primarily due to a 27% increase in the number of customers as well as a 30% increase in premium per customer.  
-    * Annual growth of IFP absent the impact of the Metromile acquisition would have been approximately 38%. Customers Customer count increased by 27% to 1,807,548 as compared to the fourth quarter of 2021. 
-    * Premium per Customer Premium per customer, defined as in force premium divided by customers, was $346 at the end of the fourth quarter, up 30% from the fourth quarter of 2021. This increase is primarily due to the impact of the Metromile acquisition, as car customers typically have a premium per customer level higher than the historical Lemonade average, and to a lesser extent, increasing prevalence of multiple policies per customer, growth in the overall average policy value, and the continued shift of our business mix toward products with higher average policy values. 
-    * Annual Dollar Retention ADR, defined as the percentage of IFP retained over a twelve month period, inclusive of changes in policy value, changes in number of policies, changes in policy type, and churn, was 86% at the end of the quarter, an increase of 4 percentage points from the fourth quarter of 2021. 
-    * Gross Earned Premium Fourth quarter gross earned premium of $151.3 million increased by $62.0 million or 69% as compared to the fourth quarter of 2021, primarily due to the increase of IFP earned during the quarter.
+* In Force Premium IFP, defined as the aggregate annualized premium for customers as of the period end date, increased by 64% to $625.1 million as compared to the fourth quarter of 2021, primarily due to a 27% increase in the number of customers as well as a 30% increase in premium per customer. 
+    
+* Annual growth of IFP absent the impact of the Metromile acquisition would have been approximately 38%. Customers Customer count increased by 27% to 1,807,548 as compared to the fourth quarter of 2021. 
+    
+* Premium per Customer Premium per customer, defined as in force premium divided by customers, was $346 at the end of the fourth quarter, up 30% from the fourth quarter of 2021. This increase is primarily due to the impact of the Metromile acquisition, as car customers typically have a premium per customer level higher than the historical Lemonade average, and to a lesser extent, increasing prevalence of multiple policies per customer, growth in the overall average policy value, and the continued shift of our business mix toward products with higher average policy values. 
+    
+* Annual Dollar Retention ADR, defined as the percentage of IFP retained over a twelve month period, inclusive of changes in policy value, changes in number of policies, changes in policy type, and churn, was 86% at the end of the quarter, an increase of 4 percentage points from the fourth quarter of 2021. 
+    
+* Gross Earned Premium Fourth quarter gross earned premium of $151.3 million increased by $62.0 million or 69% as compared to the fourth quarter of 2021, primarily due to the increase of IFP earned during the quarter.
 
 * How is your company performing relative to competitors in the same domain? Lemonade operates in the digital insurance market, which is highly competitive and includes both traditional insurers and insurtech startups. While there are no universally agreed-upon metrics for measuring the performance of companies in this market, we can examine several indicators of Lemonade's relative performance.
     * Revenue Growth: Lemonade has reported significant revenue growth since its founding in 2015. In 2021, the company reported revenue of $405 million, up from $67 million in 2019. This growth rate outpaces many of Lemonade's competitors, both traditional insurers and insurtech startups.
@@ -85,32 +89,30 @@ Teaming up with Tesla or other automakers to offer car insurance to their custom
 
 * What technologies would this additional product or service utilise? If Lemonade were to offer mobility insurance, it would need to leverage various technologies to support the product offering. Here are some examples of the technologies that Lemonade could use:
 
-Telematics: To assess risk and pricing for mobility insurance, Lemonade could leverage telematics data that is generated from connected cars. Telematics data includes information such as vehicle speed, location, and driving behavior. This data can be analyzed using machine learning algorithms to identify risk factors and price policies more accurately.
+    * Telematics: To assess risk and pricing for mobility insurance, Lemonade could leverage telematics data that is generated from connected cars. Telematics data includes information such as vehicle speed, location, and driving behavior. This data can be analyzed using machine learning algorithms to identify risk factors and price policies more accurately.
 
-Predictive Analytics: To identify potential fraud and assess risk for mobility insurance policies, Lemonade could use predictive analytics models. These models could be trained using historical claims data to identify patterns and predict future losses.
+    * Predictive Analytics: To identify potential fraud and assess risk for mobility insurance policies, Lemonade could use predictive analytics models. These models could be trained using historical claims data to identify patterns and predict future losses.
 
-Chatbots and Virtual Assistants: Lemonade could use its existing AI chatbots and virtual assistants to provide personalized customer service and support for mobility insurance policies. Chatbots could assist customers in filing claims, providing policy information, and answering questions about coverage.
+    * Chatbots and Virtual Assistants: Lemonade could use its existing AI chatbots and virtual assistants to provide personalized customer service and support for mobility insurance policies. Chatbots could assist customers in filing claims, providing policy information, and answering questions about coverage.
 
-Image Recognition: In the case of accidents, Lemonade could use image recognition technology to assess the extent of vehicle damage and estimate repair costs. Images of the vehicle could be analyzed using deep learning algorithms to identify and quantify damage.
+    * Image Recognition: In the case of accidents, Lemonade could use image recognition technology to assess the extent of vehicle damage and estimate repair costs. Images of the vehicle could be analyzed using deep learning algorithms to identify and quantify damage.
 
-Natural Language Processing: Lemonade could use natural language processing (NLP) to analyze unstructured data sources such as social media and news articles to identify emerging trends and risk factors that may impact mobility insurance policies.
+    * Natural Language Processing: Lemonade could use natural language processing (NLP) to analyze unstructured data sources such as social media and news articles to identify emerging trends and risk factors that may impact mobility insurance policies.
+
 Overall, Lemonade's existing AI bots and technology stack could be leveraged to support mobility insurance products. However, to support the introduction of mobility insurance, Lemonade may need to invest in additional technologies and data sources to support its risk assessment and pricing models.
 
 
 * Why are these technologies appropriate for your solution? Telematics Telematics is appropriate for mobility insurance because it provides real-time data on driving behavior and vehicle usage, allowing insurers to assess risk factors specific to each individual driver. This data can be used to personalize insurance policies, set premiums based on usage patterns, and incentivize safe driving behaviors.
 
-Predictive Analytics: Predictive analytics is useful for identifying patterns and predicting future outcomes based on historical data. In the case of mobility insurance, predictive analytics models can be used to identify fraud, assess risk, and price policies more accurately based on specific risk factors.
+    * Predictive Analytics: Predictive analytics is useful for identifying patterns and predicting future outcomes based on historical data. In the case of mobility insurance, predictive analytics models can be used to identify fraud, assess risk, and price policies more accurately based on specific risk factors.
 
-Chatbots: Chatbots and virtual assistants are appropriate for mobility insurance because they can provide personalized customer service and support, assist customers in filing claims, and answer questions about coverage. Chatbots can also automate routine tasks such as policy renewals and updates, freeing up customer service representatives to focus on more complex issues.
+    * Chatbots: Chatbots and virtual assistants are appropriate for mobility insurance because they can provide personalized customer service and support, assist customers in filing claims, and answer questions about coverage. Chatbots can also automate routine tasks such as policy renewals and updates, freeing up customer service representatives to focus on more complex issues.
 
-Image Recognition: Image recognition technology can be used in the case of accidents to assess the extent of vehicle damage and estimate repair costs. This information can be used to expedite the claims process and provide customers with a more efficient and streamlined insurance experience.
+    * Image Recognition: Image recognition technology can be used in the case of accidents to assess the extent of vehicle damage and estimate repair costs. This information can be used to expedite the claims process and provide customers with a more efficient and streamlined insurance experience.
 
-Natural Language Processing: Natural language processing can be used to analyze unstructured data sources such as social media and news articles to identify emerging trends and risk factors that may impact mobility insurance policies. This can provide insurers with valuable insights into customer behavior and preferences, allowing them to tailor their products and services to meet specific needs.
+    * Natural Language Processing: Natural language processing can be used to analyze unstructured data sources such as social media and news articles to identify emerging trends and risk factors that may impact mobility insurance policies. This can provide insurers with valuable insights into customer behavior and preferences, allowing them to tailor their products and services to meet specific needs.
 
 Overall, these technologies are appropriate for Lemonade's potential mobility insurance solution because they enable the company to offer personalized insurance policies, assess risk factors more accurately, provide seamless customer service and support, and gain valuable insights into customer behavior and preferences. By leveraging these technologies, Lemonade can offer innovative insurance products and services that differentiate it from traditional insurance companies and enhance its competitive position in the market.
-
-
-
 
 
 ## References
