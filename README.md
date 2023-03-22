@@ -5,9 +5,9 @@
 * [Overview and Origin](#overview)
 * [Business Activities](#activities)
 * [Landscape](#landscape)
-* [Results](#Results)
-* [Recommendations](#Recommendations)
-* [References](#References)
+* [Results](#results)
+* [Recommendations](#recommendations)
+* [References](#references)
 
 
 ## Overview and Origin
