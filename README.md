@@ -1,12 +1,3 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
-
-
 # Module.1.Challenge by Charlie Tannous
 ##### FinTech Case Study on Lemonade Inc.
 ***
@@ -68,26 +59,24 @@ Taken from Q4 earnings report
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? Core metrics used to measure success in this domain: Some core metrics used to measure success in the insurance industry include customer satisfaction, retention rates, and underwriting profitability.
 
 The below are the core metrics taken from the latest earnings report
+     * In Force Premium IFP, defined as the aggregate annualized premium for customers as of the period end date, increased by 64% to $625.1 million as compared to the fourth quarter of 2021, primarily due to a 27% increase in the number of customers as well as a 30% increase in premium per customer.   
 
-* In Force Premium IFP, defined as the aggregate annualized premium for customers as of the period end date, increased by 64% to $625.1 million as compared to the fourth quarter of 2021, primarily due to a 27% increase in the number of customers as well as a 30% increase in premium per customer. 
+    * Annual growth of IFP absent the impact of the Metromile acquisition would have been approximately 38%. Customers Customer count increased by 27% to 1,807,548 as compared to the fourth quarter of 2021. 
     
-* Annual growth of IFP absent the impact of the Metromile acquisition would have been approximately 38%. Customers Customer count increased by 27% to 1,807,548 as compared to the fourth quarter of 2021. 
+    * Premium per Customer Premium per customer, defined as in force premium divided by customers, was $346 at the end of the fourth quarter, up 30% from the fourth quarter of 2021. This increase is primarily due to the impact of the Metromile acquisition, as car customers typically have a premium per customer level higher than the historical Lemonade average, and to a lesser extent, increasing prevalence of multiple policies per customer, growth in the overall average policy value, and the continued shift of our business mix toward products with higher average policy values. 
     
-* Premium per Customer Premium per customer, defined as in force premium divided by customers, was $346 at the end of the fourth quarter, up 30% from the fourth quarter of 2021. This increase is primarily due to the impact of the Metromile acquisition, as car customers typically have a premium per customer level higher than the historical Lemonade average, and to a lesser extent, increasing prevalence of multiple policies per customer, growth in the overall average policy value, and the continued shift of our business mix toward products with higher average policy values. 
+    * Annual Dollar Retention ADR, defined as the percentage of IFP retained over a twelve month period, inclusive of changes in policy value, changes in number of policies, changes in policy type, and churn, was 86% at the end of the quarter, an increase of 4 percentage points from the fourth quarter of 2021. 
     
-* Annual Dollar Retention ADR, defined as the percentage of IFP retained over a twelve month period, inclusive of changes in policy value, changes in number of policies, changes in policy type, and churn, was 86% at the end of the quarter, an increase of 4 percentage points from the fourth quarter of 2021. 
-    
-* Gross Earned Premium Fourth quarter gross earned premium of $151.3 million increased by $62.0 million or 69% as compared to the fourth quarter of 2021, primarily due to the increase of IFP earned during the quarter.
+    * Gross Earned Premium Fourth quarter gross earned premium of $151.3 million increased by $62.0 million or 69% as compared to the fourth quarter of 2021, primarily due to the increase of IFP earned during the quarter.
+   
 
-* How is your company performing relative to competitors in the same domain? Lemonade operates in the digital insurance market, which is highly competitive and includes both traditional insurers and insurtech startups. While there are no universally agreed-upon metrics for measuring the performance of companies in this market, we can examine several indicators of Lemonade's relative performance.
+* How is your company performing relative to competitors in the same domain? Lemonade operates in the digital insurance market, which is highly competitive and includes both traditional insurers and insurtech startups. Overall, while there are many factors that contribute to the performance of companies in the digital insurance market, Lemonade has demonstrated strong revenue growth, achieved a meaningful market share, and consistently reported high levels of customer satisfaction. These indicators suggest that Lemonade is performing well relative to its competitors in the same domain. Lemonade’s CEO recently said at investor day which sums up why his compititors would face headwinds trying to play catch up with ML and AI in the insurance industry. Mr. Schreiber elaborated: “If you have a $30 or $40bn business… based on pricing to an average, you don’t want to adopt these new technologies”(AI and ML) because suddenly you’d find that half of your customers has been overcharged and you have to reduce their premiums – that’s no good. And the other half you’ve been undercharging and you’ll need to raise premiums for and lose them – and that’s no good.” We can examine several indicators of Lemonade's relative performance.
     * Revenue Growth: Lemonade has reported significant revenue growth since its founding in 2015. In 2021, the company reported revenue of $405 million, up from $67 million in 2019. This growth rate outpaces many of Lemonade's competitors, both traditional insurers and insurtech startups.
     * Market Share: Lemonade has achieved a meaningful market share in the digital insurance market in a relatively short period of time. According to its 2021 earnings report, Lemonade has more than one million customers in the United States and Europe.
     * Customer Satisfaction: Lemonade has consistently reported high levels of customer satisfaction, with a Net Promoter Score (NPS) of 70 in 2021. This score is significantly higher than the average NPS for the insurance industry.
     * Innovation: Lemonade has been recognized for its innovative approach to insurance, including its use of AI and ML to automate processes and provide a seamless digital experience to its customers. The company has also introduced new products and services, such as pet insurance and life insurance, which have expanded its offerings beyond homeowners and renters insurance.
 
-Overall, while there are many factors that contribute to the performance of companies in the digital insurance market, Lemonade has demonstrated strong revenue growth, achieved a meaningful market share, and consistently reported high levels of customer satisfaction. These indicators suggest that Lemonade is performing well relative to its competitors in the same domain.
 
- Lemonade’s CEO recently said at investor day which sums up why his compititors would face headwinds trying to play catch up with ML and AI in the insurance industry. Mr. Schreiber elaborated: “If you have a $30 or $40bn business… based on pricing to an average, you don’t want to adopt these new technologies”(AI and ML) because suddenly you’d find that half of your customers has been overcharged and you have to reduce their premiums – that’s no good. And the other half you’ve been undercharging and you’ll need to raise premiums for and lose them – and that’s no good.”
 
 ## Recommendations
 
