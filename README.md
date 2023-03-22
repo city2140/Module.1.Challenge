@@ -68,7 +68,6 @@ Based on there latest Q4 earnings report we can there customers are growing year
 
 * **How is your company performing relative to competitors in the same domain?** Lemonade operates in the digital insurance market, which is highly competitive and includes both traditional insurers and insurtech startups. Overall, while there are many factors that contribute to the performance of companies in the digital insurance market, Lemonade has demonstrated strong revenue growth, achieved a meaningful market share, and consistently reported high levels of customer satisfaction. These indicators suggest that Lemonade is performing well relative to its competitors in the same domain. Lemonade’s CEO recently said at investor day which sums up why his compititors would face headwinds trying to play catch up with ML and AI in the insurance industry. Mr. Schreiber elaborated: “If you have a $30 or $40bn business… based on pricing to an average, you don’t want to adopt these new technologies”(AI and ML) because suddenly you’d find that half of your customers has been overcharged and you have to reduce their premiums – that’s no good. And the other half you’ve been undercharging and you’ll need to raise premiums for and lose them – and that’s no good.” 
 
-We can examine several indicators of Lemonade's relative performance.
     * Revenue Growth: Lemonade has reported significant revenue growth since its founding in 2015. In 2021, the company reported revenue of $405 million, up from $67 million in 2019. This growth rate outpaces many of Lemonade's competitors, both traditional insurers and insurtech startups.
     * Market Share: Lemonade has achieved a meaningful market share in the digital insurance market in a relatively short period of time. According to its 2021 earnings report, Lemonade has more than one million customers in the United States and Europe.
     * Customer Satisfaction: Lemonade has consistently reported high levels of customer satisfaction, with a Net Promoter Score (NPS) of 70 in 2021. This score is significantly higher than the average NPS for the insurance industry.
@@ -133,4 +132,3 @@ https://www.crunchbase.com/organization/lemonade
 
 
 
-[def]: #businessactivities
