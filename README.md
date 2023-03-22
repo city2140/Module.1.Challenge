@@ -2,8 +2,8 @@
 ##### FinTech Case Study on Lemonade Inc.
 ***
 ## Table of contents
-* [Overview and Origin](#overview)
-* [Business Activities](#activities)
+* [Overview](#overview)
+* [Activities](#activities)
 * [Landscape](#landscape)
 * [Results](#results)
 * [Recommendations](#recommendations)
