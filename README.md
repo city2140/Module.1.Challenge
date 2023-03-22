@@ -2,7 +2,7 @@
 ##### FinTech Case Study on Lemonade Inc.
 ***
 ## Table of contents
-* [Overview and Origin](#overviewandorigin)
+* [Overview and Origin](#overview and origin)
 * [Business Activities](#businessactivities)
 * [Landscape](#landscape)
 * [Results](#results)
@@ -128,6 +128,7 @@ https://www.lemonade.com/
 https://www.youtube.com/watch?v=vohYJ16FEcA
 Investor-Day-22-PDF.pdf
 Shareholder-Letter-Q4-2022-(2.23.2022-FINAL).pdf
+https://www.crunchbase.com/organization/lemonade
 
 
 
